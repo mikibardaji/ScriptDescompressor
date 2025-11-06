@@ -13,5 +13,5 @@ Aquest script permet descomprimir un fitxer `.zip` principal i, si dins hi ha m√
 Obre CMD o PowerShell i executa:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File SuperDescompressorOk.ps1 -ZipPath "NomFitxer.zip"
+powershell -ExecutionPolicy Bypass -File SuperDescompresorOk.ps1 -ZipPath "NomFitxer.zip"
 ```
