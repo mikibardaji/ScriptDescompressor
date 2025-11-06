@@ -16,3 +16,5 @@ Obre CMD o PowerShell i executa:
 ```powershell
 powershell -ExecutionPolicy Bypass -File SuperDescompresorOk.ps1 -ZipPath "NomFitxer.zip"
 ```
+
+El altre SuperDescompresorOkZipRar, ho fa tant si internament han pujat rars, però... Nota: Perquè funcioni amb fitxers .rar, cal tenir 7-Zip instal·lat i que l’ordre 7z estigui disponible al PATH del sistema (és molt habitual a Windows si s’instal·la 7-Zip amb l’opció de línia d’ordres).
